@@ -35,10 +35,12 @@ The vault never holds custody of intent: the owner drives every send, the progra
 
 ## Programs
 
-| Program | ID (devnet and mainnet) |
-| --- | --- |
-| `wane_registry` | `5Arj4zbFs5GigEGUSUb9hKNMYaPLqv1XgJXUcnGJ1wJH` |
-| `wane_vault` | `5YK7gMzkjUvLaxfNisMdtjRK4UeAiJBCSonB3GgrtTYh` |
+Live on Solana mainnet-beta (same IDs on devnet). Both program IDs are pinned in `declare_id!`, the SDK, and the deploy keypairs, so nothing needs to change to talk to the live deployment.
+
+| Program | ID | Mainnet |
+| --- | --- | --- |
+| `wane_registry` | `5Arj4zbFs5GigEGUSUb9hKNMYaPLqv1XgJXUcnGJ1wJH` | [explorer](https://explorer.solana.com/address/5Arj4zbFs5GigEGUSUb9hKNMYaPLqv1XgJXUcnGJ1wJH) |
+| `wane_vault` | `5YK7gMzkjUvLaxfNisMdtjRK4UeAiJBCSonB3GgrtTYh` | [explorer](https://explorer.solana.com/address/5YK7gMzkjUvLaxfNisMdtjRK4UeAiJBCSonB3GgrtTYh) |
 
 ### wane_registry
 

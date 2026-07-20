@@ -12,6 +12,7 @@ Shipped milestones only. In-flight work lives in open issues, not here.
 - [x] v0.4: mandatory antibody-PDA binding (screen cannot be bypassed)
 - [x] v0.4: vault withdraw + update_policy, registry update_config + governance
 - [x] devnet deploy of registry and vault, live-verified clean/flagged/bypass
+- [x] mainnet-beta deploy: registry `5Arj4z…1wJH`, vault `5YK7gM…rtTYh`, governor-owned config
 - [x] TypeScript SDK: PDA derivation, instruction builders, both personas
 - [x] litesvm end-to-end suite, 15 steps including bypass-rejection
 - [x] devcontainer + multi-stage Dockerfile for reproducible builds

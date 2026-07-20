@@ -27,7 +27,7 @@ Please do not open a public GitHub issue for security reports.
 
 ## Scope
 
-In scope for the bug bounty (mainnet, once live):
+In scope for the bug bounty (live on mainnet-beta):
 
 - Wane engine program (programs/wane)
 - Reference subscriber program (programs/wane_vault)
