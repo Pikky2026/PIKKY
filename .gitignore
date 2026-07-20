@@ -25,6 +25,12 @@ smoke.cjs
 mint_mainnet.cjs
 live_devnet_vault.cjs
 mainnet-token.json
+deploy-mainnet-now.sh
+
+# local backups / temp cruft
+*.bak
+*.backup_*
+Cargo.lock.backup_*
 
 # os
 .DS_Store
